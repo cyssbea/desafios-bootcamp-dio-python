@@ -21,3 +21,6 @@ def validate_numero_telefone(phone_number):
 
 # Solicita ao usuário que insira um número de telefone e armazena o valor fornecido na variável 'phone_number'.
 phone_number = input() 
+
+# Imprime o resultado:
+print(result)
